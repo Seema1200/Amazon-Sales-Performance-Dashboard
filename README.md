@@ -45,9 +45,8 @@ Dashboard UI/UX Principles
 
 📂 Files Included
 
-📷 Dashboard Screenshot
+![Dashboard Screenshot](Dashboard Amazon.png)
 
-👉 Dashboard Amazon.png
 
 📊 Data Description
 
