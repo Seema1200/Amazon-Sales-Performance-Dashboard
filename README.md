@@ -103,6 +103,12 @@ Learned to ask the right questions, not just run queries.
 
 Became comfortable presenting findings in a business-friendly format for recruiters.
 
+## 🖼️ Dashboard Preview
+
+Here’s a snapshot of my Amazon Sales Performance Dashboard, built in Power BI.  
+This visualization highlights interactive analysis by product, city, state, and order status—just one example of the business insights I've delivered!
+
+[Dashboard](Dashboard Amazon.jpg)
 
 
 🙋‍♂️ About Me
