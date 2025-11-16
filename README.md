@@ -107,9 +107,10 @@ Became comfortable presenting findings in a business-friendly format for recruit
 
 Here’s a snapshot of my Amazon Sales Performance Dashboard, built in Power BI.  
 This visualization highlights interactive analysis by product, city, state, and order status—just one example of the business insights I've delivered!
-[![Dashboard Preview](Dashboard Amazon.png)](Dashboard Amazon.png)
+   
 
-*Click the image above to see the dashboard in full resolution!*
+![Dashboard Preview](Dashboard-Amazon.jpg)  
+
 
 
 
