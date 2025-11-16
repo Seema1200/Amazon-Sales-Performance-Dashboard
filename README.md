@@ -45,13 +45,9 @@ Dashboard UI/UX Principles
 
 📂 Files Included
 
-Amazon_Sales_Dashboard.pbix → Power BI Dashboard
+📷 Dashboard Screenshot
 
-Amazon_Sales_Data.xlsx → Dataset
-
-Dashboard Amazon.png → Dashboard screenshot
-
-README.md → Documentation (this file)
+👉 Dashboard Amazon.png
 
 📊 Data Description
 
