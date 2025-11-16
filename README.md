@@ -114,6 +114,8 @@ Created an interactive user-friendly layout
 Converted visual patterns into actionable business insights.
 
 🖼️ Dashboard Preview
+[![Dashboard Screenshot](Dashboard Amazon.png)](Dashboard Amazon.png)
+
 
 🔑 Key Insights
 
