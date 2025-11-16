@@ -1,128 +1,159 @@
 📦 Amazon Sales Dashboard: My Data Analysis Journey 🎉
 
-📋 Table of Contents
-📖 About the Project
+
+📌 Overview
+
+This repository contains my Amazon Sales Dashboard, an end-to-end Power BI data analysis project built using realistic e-commerce sales data.
+
+The dashboard provides insights into:
+
+Best-selling products
+
+High-performing cities & states
+
+Sales trends over time
+
+Order status (Shipped, Returned, Cancelled)
+
+Revenue & units sold
+
+I created this dashboard to strengthen my skills in business analytics, visualization, and storytelling as a Data Analyst.
+
+🚀 Features
+
+✔️ KPI Cards – Total Sales, Units Sold, Orders
+✔️ Top Products & Categories
+✔️ Interactive Filters – City, State, Category, Order Status
+✔️ Order Pipeline Visualization
+✔️ Statewise & Citywise Revenue Chart
+✔️ Time-Series Sales Trend
+✔️ Clean business dashboard layout
+
+🛠️ Tools & Skills Used
+
+Power BI Desktop
+
+Power Query
+
+DAX (Data Analysis Expressions)
+
+Excel
+
+Data Cleaning & EDA
+
+Dashboard UI/UX Principles
+
+📂 Files Included
+
+Amazon_Sales_Dashboard.pbix → Power BI Dashboard
+
+Amazon_Sales_Data.xlsx → Dataset
+
+Dashboard Amazon.png → Dashboard screenshot
+
+README.md → Documentation (this file)
+
+📊 Data Description
+
+Columns include:
+
+Product Category
+
+Product Name
+
+City
+
+State
+
+Sales Amount
+
+Units Sold
+
+Order Status (Shipped, Cancelled, Returned, Pending)
+
+Order Date
 
 ⚙️ My Data Analysis Steps
+1️⃣ Data Collection & Understanding
 
-🪄 Features & Analytics
+Collected realistic sales data
 
-📊 Key Insights
+Identified business KPIs
 
-💡 What I Learned
+2️⃣ Data Cleaning (Power Query)
 
-🧑‍💻 How I Grew as an Analyst
+Removed null values & duplicates
 
-📁 Files in This Repo
+Fixed inconsistent categories & location names
 
-🙋‍♂️ About Me
+Standardized formats (dates, text, numbers)
 
-📖 About the Project
-Welcome! 👋
-This repository contains my first end-to-end Amazon Sales Data Analysis project using Power BI and a realistic dataset inspired by actual e-commerce metrics. The dashboard showcases my entire analytical workflow and the insights I extracted—just as a professional data analyst would present to stakeholders.​
+3️⃣ Exploratory Data Analysis
 
-Objective:
-Leverage real-world sales data to uncover business trends, improve decision-making, and support strategy for revenue and inventory optimization.
+Category-level breakdown
 
-Dataset Columns:
-Product Category, City, State, Sale, Units, Order Status, Date
+City & state performance
 
-⚙️ My Data Analysis Steps
-Data Collection & Understanding:
-Gathered product and order-level sales data, defined key questions relevant to business needs.
+Order status distribution
 
-Exploratory Data Analysis (EDA):
-Profiled data, checked for missing values, identified duplicates and patterns in categories/cities.
+Product revenue patterns
 
-Data Cleaning:
+4️⃣ Dashboard Development in Power BI
 
-Removed errors and standardised values.
+Built KPIs
 
-Handled missing/duplicate entries.
+Added dynamic filters
 
-Ensured every metric was accurate and robust.
+Designed charts:
 
-Business Analysis in Power BI:
+Bar, Column, Line
 
-Created interactive filters (city, state, product, status).
+Donut for order pipeline
 
-Built dynamic charts: sales, units sold, order status breakdown.
+Category performance
 
-Implemented trend analysis with time-series graph.
+Created an interactive user-friendly layout
 
-Highlighted top revenue and product performance.
+5️⃣ Insight Extraction
 
-Insight Generation:
-Interpreted patterns, compared regional results, identified outliers and growth opportunities.
+Converted visual patterns into actionable business insights.
 
-Communication & Visualization:
-Designed a dashboard for clarity, impact, and recruiter readability.​
+🖼️ Dashboard Preview
 
-🪄 Features & Analytics
-Product/category filter, order status pipeline
+🔑 Key Insights
 
-Bar charts for top cities and states
+Maharashtra and Karnataka generate the highest sales revenue.
 
-KPI cards for sales and units
+Bengaluru is the top-performing city.
 
-Time series trends
+Boys’ Boxer Shorts and Baby Carriers are repeat bestsellers.
 
-Screenshot for quick recruiter preview
+Sales show mid-quarter peaks, often during promotional periods.
 
-📊 Key Insights
-Revenue Drivers:
-Maharashtra and Karnataka generate the most revenue; Bengaluru is the leading city overall.​
+A majority of orders are Shipped, showing strong fulfillment performance.
 
-Order Fulfillment:
-Most orders shipped; helps gauge delivery efficiency.
+Some categories have high units but low revenue, indicating pricing gaps.
 
-Product Trends:
-Boys’ Boxer Shorts and Baby Carriers are repeat bestsellers, aiding inventory forecasts.
+🎯 What I Learned
 
-Seasonality:
-Sales peak mid-quarter, often aligning with promotions and holidays.
+Cleaning & transforming real-world data
 
-Unit Productivity:
-High-unit sales match high revenue, but some categories lag and present optimization targets.
+Designing a professional business dashboard
 
-💡 What I Learned
-Translating messy real-world data into meaningful business answers.
+Extracting insights for decision-making
 
-Building a clear, professional Power BI dashboard for stakeholder presentations.
+Communicating analytics clearly
 
-Uncovering and communicating actionable insights for sales and marketing teams.
+Thinking like a data consultant
 
-Thinking critically as an analyst, not just coding—a true consulting mindset.
+👩‍💻 About Me
 
-🧑‍💻 How I Grew as an Analyst
-Improved skills in data wrangling (cleaning, validating, transforming data).
+I'm Seema Kumari, an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I’m building projects in Excel, SQL, Power BI, and Python to grow my skills.
 
-Practiced visual design for business dashboards—making insights easy to spot.
+📧 Email: kriseema87@gmail.com
 
-Learned to ask the right questions, not just run queries.
+🔗 LinkedIn: https://www.linkedin.com/in/seema-kumari-375763308/
 
-Became comfortable presenting findings in a business-friendly format for recruiters.
+💻 GitHub: https://github.com/Seema1200
 
-## 🖼️ Dashboard Preview
-
-Here’s a snapshot of my Amazon Sales Performance Dashboard, built in Power BI.  
-This visualization highlights interactive analysis by product, city, state, and order status—just one example of the business insights I've delivered!
-   
-
-![Dashboard Preview](Dashboard-Amazon.jpg)  
-
-
-
-
-🙋‍♂️ About Me
-Hi, I’m Seema Kumari!
-A data analytics enthusiast passionate about transforming e-commerce data into useful business knowledge.
-Actively looking for analyst internships & entry roles to keep learning and growing.
-
-📧 kriseema87@gmail.com
-
-💼 [https://www.linkedin.com/in/seema-kumari-375763308/]
-
-🔗 [https://github.com/Seema1200]
-
-✨ Thank you for viewing this project! Hope it demonstrates not just what I can build, but how I think like a data analyst—and how I can deliver value to any team.
+✨ Thank you for viewing this project! Feel free to ⭐ star the repository.
